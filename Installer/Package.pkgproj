@@ -11036,7 +11036,7 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext</string>
+																	<string>data/OpenIntelWireless_Ventura/AirportItlwm.kext</string>
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
@@ -11052,9 +11052,9 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>/Users/topiga/Documents/GitHub/HaC-Mini/Installer/data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MaxKernel.txt</string>
+																	<string>data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MaxKernel.txt</string>
 																	<key>PATH_TYPE</key>
-																	<integer>0</integer>
+																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
 																	<integer>420</integer>
 																	<key>TYPE</key>
@@ -11068,9 +11068,9 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>/Users/topiga/Documents/GitHub/HaC-Mini/Installer/data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MinKernel.txt</string>
+																	<string>data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MinKernel.txt</string>
 																	<key>PATH_TYPE</key>
-																	<integer>0</integer>
+																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
 																	<integer>420</integer>
 																	<key>TYPE</key>
